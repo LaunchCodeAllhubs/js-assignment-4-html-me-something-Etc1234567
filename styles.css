@@ -1,10 +1,8 @@
 /* Write your CSS here! */
 body {
     background-color: aliceblue;
-    margin-top: 50px;
-    margin-bottom:50px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin: 8px;
+    display: block;
 }
 
 h2 {
@@ -51,4 +49,21 @@ footer {
     color: teal;
     margin-bottom: 50px;
     text-align:center;
+}
+
+#copyright {
+    font-size: 15px;
+    color: black;
+}
+
+#mainHeading {
+    color:red;
+}
+
+#testP {
+    font-style: italic;
+}
+
+.funParagraph {
+    color:green;
 }
