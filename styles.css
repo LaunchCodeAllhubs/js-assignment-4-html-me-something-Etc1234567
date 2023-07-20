@@ -1,1 +1,69 @@
 /* Write your CSS here! */
+body {
+    background-color: aliceblue;
+    margin: 8px;
+    display: block;
+}
+
+h2 {
+    font-size: 40px;
+    color: teal;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+header {
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
+li {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-right: 100px;
+    font-size: 18px;
+}
+
+.photo {
+    border: 3px solid;
+}
+
+article {
+    border: 3px dotted;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 10px;
+}
+
+footer {
+    padding-top: 30px;
+    font-size: 20px;
+    color: teal;
+    margin-bottom: 50px;
+    text-align:center;
+}
+
+#copyright {
+    font-size: 15px;
+    color: black;
+}
+
+#mainHeading {
+    color:red;
+}
+
+#testP {
+    font-style: italic;
+}
+
+.funParagraph {
+    color:green;
+}
